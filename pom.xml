@@ -18,8 +18,11 @@
     </properties>
 
     <modules>
+        <module>hello-world</module>
         <module>java8++</module>
         <module>java-collection-framework</module>
         <module>java-design-pattern</module>
+        <module>java-multithreading</module>
+        <module>java-miscellaneous</module>
     </modules>
 </project>
